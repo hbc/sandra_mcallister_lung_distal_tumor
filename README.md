@@ -3,7 +3,9 @@ Repository for analysis of McAllister RNAseq data comparing lungs
 
 Code for analysis of [bcbio](https://bcbio-nextgen.readthedocs.io/en/latest/) processed RNA-seq data (see bcbio_info for parameters) using the (bcbioRNASeq)(https://github.com/hbc/bcbioRNASeq) R package.
 
-Main folder files:
+## File descriptions
+
+### Main folder files:
 
 QC.Rmd - Rmarkdown code for Quality control analysis report
 
@@ -14,9 +16,9 @@ func.Rmd - Rmarkdown code for functional enrichment analysis report
 Cell_deconvolution.Rmd - Rmarkdown code for cell signature analysis report
 
 
-_header.Rmd, _output.yaml, setup.R, bibliography.bib - code for report generation from Rmarkdown reports
+*_header.Rmd, _output.yaml, setup.R, bibliography.bib -* code for report generation from Rmarkdown reports*
 
-bcbio_info subfolder:
+### bcbio_info subfolder:
 
 bcbio-nextgen-commands.log - commands run during bcbio data processing
 
