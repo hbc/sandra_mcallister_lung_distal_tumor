@@ -28,3 +28,7 @@ data_versions.csv - versions of metadata (i.e. genome versions) used by bcbio in
 
 programs.txt - list of all programs and versions installed in build of bcbio
 
+
+
+[![DOI](https://zenodo.org/badge/120795022.svg)](https://zenodo.org/badge/latestdoi/120795022)
+
